@@ -1,0 +1,2 @@
+# owshen
+navigating the testnet
